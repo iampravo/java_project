@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deliveroo.cronexpressionparser.parser.field.DayOfWeekFieldExpressionParserTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-11-10T09:09:21" hostname="tests-MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="testValidateFieldExpression" classname="com.deliveroo.cronexpressionparser.parser.field.DayOfWeekFieldExpressionParserTest" time="0.004"/>
+  <testcase name="testParseAsteriskValue" classname="com.deliveroo.cronexpressionparser.parser.field.DayOfWeekFieldExpressionParserTest" time="0.001"/>
+  <testcase name="testValidateFieldExpressionWithEx" classname="com.deliveroo.cronexpressionparser.parser.field.DayOfWeekFieldExpressionParserTest" time="0.001"/>
+  <testcase name="testParseStepValues" classname="com.deliveroo.cronexpressionparser.parser.field.DayOfWeekFieldExpressionParserTest" time="0.001"/>
+  <testcase name="testParseFieldExpression" classname="com.deliveroo.cronexpressionparser.parser.field.DayOfWeekFieldExpressionParserTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
